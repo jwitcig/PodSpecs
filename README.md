@@ -1,0 +1,2 @@
+# PodSpecs
+Private Cocoapods Specs
